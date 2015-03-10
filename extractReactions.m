@@ -45,10 +45,10 @@ iReact=ismember(table(:,iProcCol),processes);
 reactions=table(iReact,1); % work with reaction IDs, i.e. first column entries
     
 
-if nargin < 3, outfilename=[processes{:} '-' kbfilename]; end
+if nargin < 3, outfilename=[processes{:} '-new-' kbfilename]; end
 
 
-isreaction = @(x) any(ismember(regexp(x,';','split'),reactions));
+isreaction = @(x) any(ismember(regexp(x,', ','split'),reactions));
 
 [~,sheets]=xlsfinfo(kbfilename);
 
