@@ -1,0 +1,1440 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sbgn xmlns="http://sbgn.org/libsbgn/0.2">
+    <map language="process description">
+        <glyph compartmentOrder="-114.0" id="glyph0" class="compartment">
+            <label text="Cytosol">
+                <bbox y="158.0" x="2312.0" h="18.0" w="56.0"/>
+            </label>
+            <bbox y="150.0" x="265.0" h="3100.0" w="4150.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph8" class="unspecified entity">
+            <label text="NAD"/>
+            <bbox y="1170.0" x="2552.6326" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph49" class="unspecified entity">
+            <label text="AMP"/>
+            <bbox y="1155.0" x="3906.0" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph40" class="unspecified entity">
+            <label text="NMN"/>
+            <bbox y="945.0" x="3906.0" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph35" class="unspecified entity">
+            <label text="DATP"/>
+            <bbox y="1365.0" x="537.75" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph28" class="unspecified entity">
+            <label text="DCTP"/>
+            <bbox y="1665.0" x="537.75" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph30" class="unspecified entity">
+            <label text="DGTP"/>
+            <bbox y="990.0" x="537.75" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph45" class="unspecified entity">
+            <label text="DTTP"/>
+            <bbox y="2205.0" x="537.75" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph3" class="unspecified entity">
+            <label text="PPI"/>
+            <bbox y="1350.0" x="1436.9524" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph41" class="unspecified entity">
+            <label text="AD"/>
+            <bbox y="600.0" x="1716.0" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph17" class="unspecified entity">
+            <label text="AMET"/>
+            <bbox y="867.44763" x="1716.0" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph29" class="unspecified entity">
+            <label text="AHCYS"/>
+            <bbox y="600.0" x="2344.3333" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph12" class="unspecified entity">
+            <label text="m6AD"/>
+            <bbox y="867.44763" x="2344.3333" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph33" class="unspecified entity">
+            <label text="dApdAp"/>
+            <bbox y="1185.0" x="1436.9524" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph4" class="unspecified entity">
+            <label text="DAMP"/>
+            <bbox y="1245.0" x="537.75" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph13" class="unspecified entity">
+            <label text="dCpdCp"/>
+            <bbox y="1815.0" x="1436.9524" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph25" class="unspecified entity">
+            <label text="DCMP"/>
+            <bbox y="1785.0" x="537.75" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph22" class="unspecified entity">
+            <label text="dGpdGp"/>
+            <bbox y="1005.0" x="1436.9524" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph34" class="unspecified entity">
+            <label text="DGMP"/>
+            <bbox y="1110.0" x="537.75" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph24" class="unspecified entity">
+            <label text="dTpdTp"/>
+            <bbox y="2010.0" x="1446.0" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph44" class="unspecified entity">
+            <label text="DTMP"/>
+            <bbox y="2070.0" x="537.75" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph37" class="unspecified entity">
+            <label text="FAPydAMP"/>
+            <bbox y="2370.0" x="1641.0" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph7" class="unspecified entity">
+            <label text="FAPyAD"/>
+            <bbox y="2445.0" x="2552.6326" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph18" class="unspecified entity">
+            <label text="FAPydGMP"/>
+            <bbox y="1875.0" x="1641.0" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph46" class="unspecified entity">
+            <label text="FAPyGN"/>
+            <bbox y="2010.0" x="2552.6326" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph14" class="unspecified entity">
+            <label text="oxo8dAMP"/>
+            <bbox y="2235.0" x="1641.0" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph31" class="unspecified entity">
+            <label text="oxo8dGMP"/>
+            <bbox y="1785.0" x="1641.0" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph16" class="unspecified entity">
+            <label text="oxo8GN"/>
+            <bbox y="1890.0" x="2552.6326" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph47" class="unspecified entity">
+            <label text="ATP"/>
+            <bbox y="480.0" x="3694.7856" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph9" class="unspecified entity">
+            <label text="ADP"/>
+            <bbox y="525.0" x="2552.6326" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph6" class="unspecified entity">
+            <label text="PI"/>
+            <bbox y="390.0" x="2552.6326" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph19" class="unspecified entity">
+            <label text="ho5dUMP"/>
+            <bbox y="1980.0" x="1641.0" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph15" class="unspecified entity">
+            <label text="ho5URA"/>
+            <bbox y="2190.0" x="2552.6326" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph48" class="unspecified entity">
+            <label text="DUMP"/>
+            <bbox y="1680.0" x="1641.0" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph52" class="macromolecule">
+            <label text="15"/>
+            <bbox y="970.0" x="2046.3804" h="40.0" w="40.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph57" class="macromolecule">
+            <label text="13"/>
+            <bbox y="505.0" x="2046.3804" h="40.0" w="40.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph61" class="macromolecule">
+            <label text="9"/>
+            <bbox y="1180.0" x="974.375" h="40.0" w="40.0"/>
+        </glyph>
+        <glyph id="glyph90" class="process">
+            <bbox y="1263.0" x="982.375" h="24.0" w="24.0"/>
+            <port y="1275.0" x="970.375" id="glyph90.1"/>
+            <port y="1275.0" x="1018.375" id="glyph90.2"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph77" class="macromolecule">
+            <label text="10"/>
+            <bbox y="1930.0" x="1060.0" h="40.0" w="40.0"/>
+        </glyph>
+        <glyph id="glyph84" class="process">
+            <bbox y="1878.0" x="986.8542" h="24.0" w="24.0"/>
+            <port y="1890.0" x="974.8542" id="glyph84.1"/>
+            <port y="1890.0" x="1022.8542" id="glyph84.2"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph53" class="macromolecule">
+            <label text="12"/>
+            <bbox y="2300.0" x="1090.0" h="40.0" w="40.0"/>
+        </glyph>
+        <glyph id="glyph103" class="process">
+            <bbox y="2338.0" x="986.8542" h="24.0" w="24.0"/>
+            <port y="2350.0" x="974.8542" id="glyph103.1"/>
+            <port y="2350.0" x="1022.8542" id="glyph103.2"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph78" class="macromolecule">
+            <label text="11"/>
+            <bbox y="910.0" x="974.375" h="40.0" w="40.0"/>
+        </glyph>
+        <glyph id="glyph110" class="process">
+            <bbox y="1023.0" x="982.375" h="24.0" w="24.0"/>
+            <port y="1035.0" x="970.375" id="glyph110.1"/>
+            <port y="1035.0" x="1018.375" id="glyph110.2"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph75" class="macromolecule">
+            <label text="18"/>
+            <bbox y="1465.0" x="974.375" h="40.0" w="40.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph74" class="macromolecule">
+            <label text="6"/>
+            <bbox y="1570.0" x="1030.0" h="40.0" w="40.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph51" class="macromolecule">
+            <label text="19"/>
+            <bbox y="1690.0" x="920.0" h="40.0" w="40.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph71" class="macromolecule">
+            <label text="21"/>
+            <bbox y="2230.0" x="890.0" h="40.0" w="40.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph67" class="macromolecule">
+            <label text="31"/>
+            <bbox y="2020.0" x="2055.0" h="40.0" w="40.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph62" class="macromolecule">
+            <label text="27"/>
+            <bbox y="2110.0" x="2055.0" h="40.0" w="40.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph64" class="macromolecule">
+            <label text="25"/>
+            <bbox y="2410.0" x="2055.0" h="40.0" w="40.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph73" class="macromolecule">
+            <label text="28"/>
+            <bbox y="1810.0" x="2055.0" h="40.0" w="40.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph68" class="macromolecule">
+            <label text="26"/>
+            <bbox y="1915.0" x="2055.0" h="40.0" w="40.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph55" class="macromolecule">
+            <label text="32"/>
+            <bbox y="1705.0" x="2055.0" h="40.0" w="40.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph65" class="macromolecule">
+            <label text="8"/>
+            <bbox y="1105.0" x="3218.5938" h="40.0" w="40.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph66" class="macromolecule">
+            <label text="4"/>
+            <bbox y="1300.0" x="974.375" h="40.0" w="40.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph79" class="macromolecule">
+            <label text="20"/>
+            <bbox y="1060.0" x="974.375" h="40.0" w="40.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph56" class="macromolecule">
+            <label text="5"/>
+            <bbox y="2140.0" x="930.0" h="40.0" w="40.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph59" class="macromolecule">
+            <label text="7"/>
+            <bbox y="2030.0" x="1000.0" h="40.0" w="40.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph76" class="macromolecule">
+            <label text="24"/>
+            <bbox y="355.0" x="3218.5938" h="40.0" w="40.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph80" class="macromolecule">
+            <label text="30"/>
+            <bbox y="580.0" x="3310.0" h="40.0" w="40.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph58" class="macromolecule">
+            <label text="22"/>
+            <bbox y="475.0" x="3218.5938" h="40.0" w="40.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph60" class="macromolecule">
+            <label text="14"/>
+            <bbox y="850.0" x="3290.0" h="40.0" w="40.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph54" class="macromolecule">
+            <label text="29"/>
+            <bbox y="595.0" x="3218.5938" h="40.0" w="40.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph50" class="macromolecule">
+            <label text="17"/>
+            <bbox y="1195.0" x="3218.5938" h="40.0" w="40.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph69" class="macromolecule">
+            <label text="16"/>
+            <bbox y="1660.0" x="3320.0" h="40.0" w="40.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph81" class="macromolecule">
+            <label text="2"/>
+            <bbox y="880.0" x="3170.0" h="40.0" w="40.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph70" class="macromolecule">
+            <label text="3"/>
+            <bbox y="1345.0" x="3218.5938" h="40.0" w="40.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph72" class="macromolecule">
+            <label text="1"/>
+            <bbox y="1585.0" x="3218.5938" h="40.0" w="40.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph63" class="macromolecule">
+            <label text="23"/>
+            <bbox y="1440.0" x="3220.0" h="40.0" w="40.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph39" class="unspecified entity">
+            <label text="H2O"/>
+            <clone/>
+            <bbox y="345.0" x="3694.7856" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph id="glyph92" class="process">
+            <bbox y="415.5" x="3226.5938" h="24.0" w="24.0"/>
+            <port y="427.5" x="3262.5938" id="glyph92.2"/>
+            <port y="427.5" x="3214.5938" id="glyph92.1"/>
+        </glyph>
+        <glyph id="glyph85" class="process">
+            <bbox y="554.6667" x="3226.5938" h="24.0" w="24.0"/>
+            <port y="566.6667" x="3262.5938" id="glyph85.2"/>
+            <port y="566.6667" x="3214.5938" id="glyph85.1"/>
+        </glyph>
+        <glyph id="glyph101" class="process">
+            <bbox y="293.0" x="3226.5938" h="24.0" w="24.0"/>
+            <port y="305.0" x="3262.5938" id="glyph101.2"/>
+            <port y="305.0" x="3214.5938" id="glyph101.1"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph26" class="unspecified entity">
+            <label text="H"/>
+            <clone/>
+            <bbox y="240.0" x="2552.6326" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph36" class="unspecified entity">
+            <label text="H2O"/>
+            <clone/>
+            <bbox y="652.5" x="3694.7856" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph42" class="unspecified entity">
+            <label text="DR5P"/>
+            <clone/>
+            <bbox y="1005.0" x="2552.6326" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph27" class="unspecified entity">
+            <label text="URA"/>
+            <bbox y="1770.0" x="2552.6326" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph11" class="unspecified entity">
+            <label text="oxo8AD"/>
+            <bbox y="2310.0" x="2552.6326" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph21" class="unspecified entity">
+            <label text="H"/>
+            <clone/>
+            <bbox y="1530.0" x="537.75" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph id="glyph97" class="process">
+            <bbox y="1143.0" x="982.375" h="24.0" w="24.0"/>
+            <port y="1155.0" x="1018.375" id="glyph97.2"/>
+            <port y="1155.0" x="970.375" id="glyph97.1"/>
+        </glyph>
+        <glyph id="glyph102" class="process">
+            <bbox y="1653.0" x="982.375" h="24.0" w="24.0"/>
+            <port y="1665.0" x="1018.375" id="glyph102.2"/>
+            <port y="1665.0" x="970.375" id="glyph102.1"/>
+        </glyph>
+        <glyph id="glyph86" class="process">
+            <bbox y="1398.0" x="982.375" h="24.0" w="24.0"/>
+            <port y="1410.0" x="1018.375" id="glyph86.2"/>
+            <port y="1410.0" x="970.375" id="glyph86.1"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph23" class="unspecified entity">
+            <label text="H2O"/>
+            <clone/>
+            <bbox y="1500.0" x="1436.9524" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph id="glyph93" class="process">
+            <bbox y="1533.0" x="982.375" h="24.0" w="24.0"/>
+            <port y="1545.0" x="1018.375" id="glyph93.2"/>
+            <port y="1545.0" x="970.375" id="glyph93.1"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph10" class="unspecified entity">
+            <label text="dRibose5P_dRibose5P"/>
+            <bbox y="855.0" x="3694.7856" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph1" class="unspecified entity">
+            <label text="H2O"/>
+            <clone/>
+            <bbox y="1185.0" x="3694.7856" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph5" class="unspecified entity">
+            <label text="H"/>
+            <clone/>
+            <bbox y="1335.0" x="2552.6326" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph id="glyph99" class="process">
+            <bbox y="1038.0" x="3226.5938" h="24.0" w="24.0"/>
+            <port y="1050.0" x="3214.5938" id="glyph99.1"/>
+            <port y="1050.0" x="3262.5938" id="glyph99.2"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph32" class="unspecified entity">
+            <label text="H"/>
+            <clone/>
+            <bbox y="1035.0" x="3694.7856" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph id="glyph82" class="process">
+            <bbox y="618.0" x="2050.7607" h="24.0" w="24.0"/>
+            <port y="630.0" x="2038.7609" id="glyph82.1"/>
+            <port y="630.0" x="2086.7607" id="glyph82.2"/>
+        </glyph>
+        <glyph id="glyph100" class="process">
+            <bbox y="885.44763" x="2050.7607" h="24.0" w="24.0"/>
+            <port y="897.44763" x="2038.7609" id="glyph100.1"/>
+            <port y="897.44763" x="2086.7607" id="glyph100.2"/>
+        </glyph>
+        <glyph id="glyph98" class="process">
+            <bbox y="670.5" x="3226.5938" h="24.0" w="24.0"/>
+            <port y="682.5" x="3262.5938" id="glyph98.2"/>
+            <port y="682.5" x="3214.5938" id="glyph98.1"/>
+        </glyph>
+        <glyph id="glyph107" class="process">
+            <bbox y="798.0" x="3226.5938" h="24.0" w="24.0"/>
+            <port y="810.0" x="3262.5938" id="glyph107.2"/>
+            <port y="810.0" x="3214.5938" id="glyph107.1"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph43" class="unspecified entity">
+            <label text="H"/>
+            <clone/>
+            <bbox y="720.0" x="2552.6326" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph38" class="unspecified entity">
+            <label text="H"/>
+            <clone/>
+            <bbox y="1920.0" x="537.75" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph id="glyph113" class="process">
+            <bbox y="2088.0" x="2063.0" h="24.0" w="24.0"/>
+            <port y="2100.0" x="2051.0" id="glyph113.1"/>
+            <port y="2100.0" x="2099.0" id="glyph113.2"/>
+        </glyph>
+        <glyph id="glyph87" class="process">
+            <bbox y="1773.0" x="986.8542" h="24.0" w="24.0"/>
+            <port y="1785.0" x="1022.8542" id="glyph87.2"/>
+            <port y="1785.0" x="974.8542" id="glyph87.1"/>
+        </glyph>
+        <glyph id="glyph105" class="process">
+            <bbox y="2098.0" x="986.8542" h="24.0" w="24.0"/>
+            <port y="2110.0" x="1022.8542" id="glyph105.2"/>
+            <port y="2110.0" x="974.8542" id="glyph105.1"/>
+        </glyph>
+        <glyph id="glyph89" class="process">
+            <bbox y="2208.0" x="986.8542" h="24.0" w="24.0"/>
+            <port y="2220.0" x="1022.8542" id="glyph89.2"/>
+            <port y="2220.0" x="974.8542" id="glyph89.1"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph20" class="unspecified entity">
+            <label text="H2O"/>
+            <clone/>
+            <bbox y="2115.0" x="1641.0" h="60.0" w="108.0"/>
+        </glyph>
+        <glyph id="glyph95" class="process">
+            <bbox y="1983.0" x="986.8542" h="24.0" w="24.0"/>
+            <port y="1995.0" x="1022.8542" id="glyph95.2"/>
+            <port y="1995.0" x="974.8542" id="glyph95.1"/>
+        </glyph>
+        <glyph id="glyph109" class="process">
+            <bbox y="2343.0" x="2063.0" h="24.0" w="24.0"/>
+            <port y="2355.0" x="2051.0" id="glyph109.1"/>
+            <port y="2355.0" x="2099.0" id="glyph109.2"/>
+        </glyph>
+        <glyph id="glyph106" class="process">
+            <bbox y="2223.0" x="2063.0" h="24.0" w="24.0"/>
+            <port y="2235.0" x="2051.0" id="glyph106.1"/>
+            <port y="2235.0" x="2099.0" id="glyph106.2"/>
+        </glyph>
+        <glyph id="glyph111" class="process">
+            <bbox y="1983.0" x="2063.0" h="24.0" w="24.0"/>
+            <port y="1995.0" x="2051.0" id="glyph111.1"/>
+            <port y="1995.0" x="2099.0" id="glyph111.2"/>
+        </glyph>
+        <glyph id="glyph91" class="process">
+            <bbox y="1788.0" x="2063.0" h="24.0" w="24.0"/>
+            <port y="1800.0" x="2051.0" id="glyph91.1"/>
+            <port y="1800.0" x="2099.0" id="glyph91.2"/>
+        </glyph>
+        <glyph id="glyph104" class="process">
+            <bbox y="1893.0" x="2063.0" h="24.0" w="24.0"/>
+            <port y="1905.0" x="2051.0" id="glyph104.1"/>
+            <port y="1905.0" x="2099.0" id="glyph104.2"/>
+        </glyph>
+        <glyph id="glyph112" class="process">
+            <bbox y="1518.0" x="3226.5938" h="24.0" w="24.0"/>
+            <port y="1530.0" x="3262.5938" id="glyph112.2"/>
+            <port y="1530.0" x="3214.5938" id="glyph112.1"/>
+        </glyph>
+        <glyph id="glyph94" class="process">
+            <bbox y="1293.0" x="3226.5938" h="24.0" w="24.0"/>
+            <port y="1305.0" x="3262.5938" id="glyph94.2"/>
+            <port y="1305.0" x="3214.5938" id="glyph94.1"/>
+        </glyph>
+        <glyph id="glyph108" class="process">
+            <bbox y="963.0" x="3226.5938" h="24.0" w="24.0"/>
+            <port y="975.0" x="3262.5938" id="glyph108.2"/>
+            <port y="975.0" x="3214.5938" id="glyph108.1"/>
+        </glyph>
+        <glyph id="glyph83" class="process">
+            <bbox y="1398.0" x="3226.5938" h="24.0" w="24.0"/>
+            <port y="1410.0" x="3262.5938" id="glyph83.2"/>
+            <port y="1410.0" x="3214.5938" id="glyph83.1"/>
+        </glyph>
+        <glyph id="glyph96" class="process">
+            <bbox y="1623.0" x="3226.5938" h="24.0" w="24.0"/>
+            <port y="1635.0" x="3262.5938" id="glyph96.2"/>
+            <port y="1635.0" x="3214.5938" id="glyph96.1"/>
+        </glyph>
+        <glyph id="glyph88" class="process">
+            <bbox y="1173.0" x="3226.5938" h="24.0" w="24.0"/>
+            <port y="1185.0" x="3262.5938" id="glyph88.2"/>
+            <port y="1185.0" x="3214.5938" id="glyph88.1"/>
+        </glyph>
+        <glyph compartmentRef="glyph0" id="glyph2" class="unspecified entity">
+            <label text="DR5P"/>
+            <clone/>
+            <bbox y="1590.0" x="2552.6326" h="60.0" w="108.0"/>
+        </glyph>
+        <arc target="glyph112.2" source="glyph10" id="arc0" class="consumption">
+            <start y="915.0" x="3726.7302"/>
+            <next y="1530.0" x="3274.5938"/>
+            <end y="1530.0" x="3262.5938"/>
+        </arc>
+        <arc target="glyph108.2" source="glyph10" id="arc1" class="consumption">
+            <start y="895.249" x="3694.7856"/>
+            <next y="975.0" x="3274.5938"/>
+            <end y="975.0" x="3262.5938"/>
+        </arc>
+        <arc target="glyph94.2" source="glyph10" id="arc2" class="consumption">
+            <start y="915.0" x="3714.9148"/>
+            <next y="1305.0" x="3274.5938"/>
+            <end y="1305.0" x="3262.5938"/>
+        </arc>
+        <arc target="glyph86.2" source="glyph33" id="arc3" class="consumption">
+            <start y="1237.8625" x="1436.9524"/>
+            <next y="1410.0" x="1030.375"/>
+            <end y="1410.0" x="1018.375"/>
+        </arc>
+        <arc target="glyph4" source="glyph86.1" id="arc4" class="production">
+            <glyph id="glyph232" class="cardinality">
+                <label text="2"/>
+                <bbox y="1319.0" x="748.0" h="17.5" w="22.5"/>
+            </glyph>
+            <start y="1410.0" x="970.375"/>
+            <next y="1410.0" x="958.375"/>
+            <end y="1294.884" x="645.75"/>
+        </arc>
+        <arc target="glyph105.2" source="glyph13" id="arc5" class="consumption">
+            <start y="1875.0" x="1437.9601"/>
+            <end y="2110.0" x="1022.8542"/>
+        </arc>
+        <arc target="glyph25" source="glyph105.1" id="arc6" class="production">
+            <glyph id="glyph234" class="cardinality">
+                <label text="2"/>
+                <bbox y="1920.0" x="738.0" h="17.5" w="22.5"/>
+            </glyph>
+            <start y="2110.0" x="974.8542"/>
+            <end y="1845.0" x="633.15045"/>
+        </arc>
+        <arc target="glyph102.2" source="glyph22" id="arc7" class="consumption">
+            <start y="1065.0" x="1469.0201"/>
+            <next y="1665.0" x="1030.375"/>
+            <end y="1665.0" x="1018.375"/>
+        </arc>
+        <arc target="glyph34" source="glyph102.1" id="arc8" class="production">
+            <glyph id="glyph236" class="cardinality">
+                <label text="2"/>
+                <bbox y="1330.0" x="724.0" h="17.5" w="22.5"/>
+            </glyph>
+            <start y="1665.0" x="970.375"/>
+            <next y="1665.0" x="958.375"/>
+            <end y="1170.0" x="612.7"/>
+        </arc>
+        <arc target="glyph95.2" source="glyph24" id="arc9" class="consumption">
+            <start y="2034.8734" x="1446.0"/>
+            <next y="1995.0" x="1026.0"/>
+            <end y="1995.0" x="1022.8542"/>
+        </arc>
+        <arc target="glyph44" source="glyph95.1" id="arc10" class="production">
+            <glyph id="glyph238" class="cardinality">
+                <label text="2"/>
+                <bbox y="2022.0" x="688.0" h="17.5" w="22.5"/>
+            </glyph>
+            <start y="1995.0" x="974.8542"/>
+            <next y="1995.0" x="954.0"/>
+            <end y="2070.0" x="546.71545"/>
+        </arc>
+        <arc target="glyph99.1" source="glyph8" id="arc11" class="consumption">
+            <start y="1186.4086" x="2660.6326"/>
+            <next y="1050.0" x="3202.5938"/>
+            <end y="1050.0" x="3214.5938"/>
+        </arc>
+        <arc target="glyph49" source="glyph99.2" id="arc12" class="production">
+            <start y="1050.0" x="3262.5938"/>
+            <next y="1050.0" x="3274.5938"/>
+            <end y="1174.364" x="3906.0"/>
+        </arc>
+        <arc target="glyph10" source="glyph99.2" id="arc13" class="production">
+            <start y="1050.0" x="3262.5938"/>
+            <next y="1050.0" x="3274.5938"/>
+            <end y="903.78986" x="3694.7856"/>
+        </arc>
+        <arc target="glyph40" source="glyph99.2" id="arc14" class="production">
+            <start y="1050.0" x="3262.5938"/>
+            <next y="1050.0" x="3274.5938"/>
+            <end y="980.9089" x="3906.0"/>
+        </arc>
+        <arc target="glyph90.1" source="glyph4" id="arc15" class="consumption">
+            <start y="1275.0" x="645.75"/>
+            <next y="1275.0" x="958.375"/>
+            <end y="1275.0" x="970.375"/>
+        </arc>
+        <arc target="glyph90.1" source="glyph35" id="arc16" class="consumption">
+            <start y="1377.3253" x="645.75"/>
+            <next y="1275.0" x="958.375"/>
+            <end y="1275.0" x="970.375"/>
+        </arc>
+        <arc target="glyph33" source="glyph90.2" id="arc17" class="production">
+            <start y="1275.0" x="1018.375"/>
+            <next y="1275.0" x="1030.375"/>
+            <end y="1222.0347" x="1436.9524"/>
+        </arc>
+        <arc target="glyph3" source="glyph90.2" id="arc18" class="production">
+            <start y="1275.0" x="1018.375"/>
+            <next y="1275.0" x="1030.375"/>
+            <end y="1367.6893" x="1436.9524"/>
+        </arc>
+        <arc target="glyph84.1" source="glyph25" id="arc19" class="consumption">
+            <start y="1826.0468" x="645.75"/>
+            <next y="1890.0" x="958.375"/>
+            <end y="1890.0" x="974.8542"/>
+        </arc>
+        <arc target="glyph84.1" source="glyph28" id="arc20" class="consumption">
+            <start y="1723.7214" x="645.75"/>
+            <next y="1890.0" x="958.375"/>
+            <end y="1890.0" x="974.8542"/>
+        </arc>
+        <arc target="glyph13" source="glyph84.2" id="arc21" class="production">
+            <start y="1890.0" x="1022.8542"/>
+            <next y="1890.0" x="1030.375"/>
+            <end y="1850.276" x="1436.9524"/>
+        </arc>
+        <arc target="glyph3" source="glyph84.2" id="arc22" class="production">
+            <start y="1890.0" x="1022.8542"/>
+            <next y="1890.0" x="1030.375"/>
+            <end y="1410.0" x="1463.8596"/>
+        </arc>
+        <arc target="glyph110.1" source="glyph34" id="arc23" class="consumption">
+            <start y="1124.5345" x="645.75"/>
+            <next y="1035.0" x="958.375"/>
+            <end y="1035.0" x="970.375"/>
+        </arc>
+        <arc target="glyph110.1" source="glyph30" id="arc24" class="consumption">
+            <start y="1022.20935" x="645.75"/>
+            <next y="1035.0" x="958.375"/>
+            <end y="1035.0" x="970.375"/>
+        </arc>
+        <arc target="glyph22" source="glyph110.2" id="arc25" class="production">
+            <start y="1035.0" x="1018.375"/>
+            <next y="1035.0" x="1030.375"/>
+            <end y="1035.0" x="1436.9524"/>
+        </arc>
+        <arc target="glyph3" source="glyph110.2" id="arc26" class="production">
+            <start y="1035.0" x="1018.375"/>
+            <next y="1035.0" x="1030.375"/>
+            <end y="1350.0" x="1450.9022"/>
+        </arc>
+        <arc target="glyph103.1" source="glyph44" id="arc27" class="consumption">
+            <start y="2130.0" x="637.7225"/>
+            <end y="2350.0" x="974.8542"/>
+        </arc>
+        <arc target="glyph103.1" source="glyph45" id="arc28" class="consumption">
+            <start y="2251.2097" x="645.75"/>
+            <end y="2350.0" x="974.8542"/>
+        </arc>
+        <arc target="glyph24" source="glyph103.2" id="arc29" class="production">
+            <start y="2350.0" x="1022.8542"/>
+            <end y="2070.0" x="1451.5021"/>
+        </arc>
+        <arc target="glyph3" source="glyph103.2" id="arc30" class="production">
+            <start y="2350.0" x="1022.8542"/>
+            <end y="1410.0" x="1475.7329"/>
+        </arc>
+        <arc target="glyph82.1" source="glyph41" id="arc31" class="consumption">
+            <start y="630.0" x="1824.0"/>
+            <next y="630.0" x="2026.7609"/>
+            <end y="630.0" x="2038.7609"/>
+        </arc>
+        <arc target="glyph82.1" source="glyph17" id="arc32" class="consumption">
+            <start y="867.44763" x="1798.8013"/>
+            <next y="630.0" x="2026.7609"/>
+            <end y="630.0" x="2038.7609"/>
+        </arc>
+        <arc target="glyph29" source="glyph82.2" id="arc33" class="production">
+            <start y="630.0" x="2086.7607"/>
+            <next y="630.0" x="2098.7607"/>
+            <end y="630.0" x="2344.3333"/>
+        </arc>
+        <arc target="glyph12" source="glyph82.2" id="arc34" class="production">
+            <start y="630.0" x="2086.7607"/>
+            <next y="630.0" x="2098.7607"/>
+            <end y="867.44763" x="2364.7297"/>
+        </arc>
+        <arc target="glyph107.2" source="glyph47" id="arc35" class="consumption">
+            <start y="540.0" x="3701.3665"/>
+            <next y="810.0" x="3274.5938"/>
+            <end y="810.0" x="3262.5938"/>
+        </arc>
+        <arc target="glyph107.2" source="glyph10" id="arc36" class="consumption">
+            <glyph id="glyph264" class="cardinality">
+                <label text="2"/>
+                <bbox y="834.0" x="3534.0" h="17.5" w="22.5"/>
+            </glyph>
+            <start y="876.45917" x="3694.7856"/>
+            <next y="810.0" x="3274.5938"/>
+            <end y="810.0" x="3262.5938"/>
+        </arc>
+        <arc target="glyph9" source="glyph107.1" id="arc37" class="production">
+            <start y="810.0" x="3214.5938"/>
+            <next y="810.0" x="3202.5938"/>
+            <end y="578.1055" x="2660.6326"/>
+        </arc>
+        <arc target="glyph6" source="glyph107.1" id="arc38" class="production">
+            <start y="810.0" x="3214.5938"/>
+            <next y="810.0" x="3202.5938"/>
+            <end y="450.0" x="2652.4758"/>
+        </arc>
+        <arc target="glyph100.1" source="glyph41" id="arc39" class="consumption">
+            <start y="660.0" x="1798.8013"/>
+            <next y="897.44763" x="2026.7609"/>
+            <end y="897.44763" x="2038.7609"/>
+        </arc>
+        <arc target="glyph100.1" source="glyph17" id="arc40" class="consumption">
+            <start y="897.44763" x="1824.0"/>
+            <next y="897.44763" x="2026.7609"/>
+            <end y="897.44763" x="2038.7609"/>
+        </arc>
+        <arc target="glyph29" source="glyph100.2" id="arc41" class="production">
+            <start y="897.44763" x="2086.7607"/>
+            <next y="897.44763" x="2098.7607"/>
+            <end y="660.0" x="2364.7297"/>
+        </arc>
+        <arc target="glyph12" source="glyph100.2" id="arc42" class="production">
+            <start y="897.44763" x="2086.7607"/>
+            <next y="897.44763" x="2098.7607"/>
+            <end y="897.44763" x="2344.3333"/>
+        </arc>
+        <arc target="glyph96.2" source="glyph10" id="arc43" class="consumption">
+            <glyph id="glyph271" class="cardinality">
+                <label text="2"/>
+                <bbox y="1141.0" x="3561.0" h="17.5" w="22.5"/>
+            </glyph>
+            <start y="915.0" x="3729.8179"/>
+            <next y="1635.0" x="3274.5938"/>
+            <end y="1635.0" x="3262.5938"/>
+        </arc>
+        <arc target="glyph93.2" source="glyph33" id="arc44" class="consumption">
+            <start y="1245.0" x="1449.0817"/>
+            <next y="1545.0" x="1030.375"/>
+            <end y="1545.0" x="1018.375"/>
+        </arc>
+        <arc target="glyph4" source="glyph93.1" id="arc45" class="production">
+            <glyph id="glyph273" class="cardinality">
+                <label text="2"/>
+                <bbox y="1373.0" x="737.0" h="17.5" w="22.5"/>
+            </glyph>
+            <start y="1545.0" x="970.375"/>
+            <next y="1545.0" x="958.375"/>
+            <end y="1305.0" x="632.4861"/>
+        </arc>
+        <arc target="glyph87.2" source="glyph13" id="arc46" class="consumption">
+            <start y="1837.9653" x="1436.9524"/>
+            <next y="1785.0" x="1030.375"/>
+            <end y="1785.0" x="1022.8542"/>
+        </arc>
+        <arc target="glyph25" source="glyph87.1" id="arc47" class="production">
+            <glyph id="glyph275" class="cardinality">
+                <label text="2"/>
+                <bbox y="1782.0" x="756.0" h="17.5" w="22.5"/>
+            </glyph>
+            <start y="1785.0" x="974.8542"/>
+            <next y="1785.0" x="958.375"/>
+            <end y="1810.5813" x="645.75"/>
+        </arc>
+        <arc target="glyph97.2" source="glyph22" id="arc48" class="consumption">
+            <start y="1049.0693" x="1436.9524"/>
+            <next y="1155.0" x="1030.375"/>
+            <end y="1155.0" x="1018.375"/>
+        </arc>
+        <arc target="glyph34" source="glyph97.1" id="arc49" class="production">
+            <glyph id="glyph277" class="cardinality">
+                <label text="2"/>
+                <bbox y="1128.0" x="755.0" h="17.5" w="22.5"/>
+            </glyph>
+            <start y="1155.0" x="970.375"/>
+            <next y="1155.0" x="958.375"/>
+            <end y="1142.2094" x="645.75"/>
+        </arc>
+        <arc target="glyph89.2" source="glyph24" id="arc50" class="consumption">
+            <start y="2060.6973" x="1446.0"/>
+            <next y="2220.0" x="1030.375"/>
+            <end y="2220.0" x="1022.8542"/>
+        </arc>
+        <arc target="glyph44" source="glyph89.1" id="arc51" class="production">
+            <glyph id="glyph279" class="cardinality">
+                <label text="2"/>
+                <bbox y="2137.0" x="751.0" h="17.5" w="22.5"/>
+            </glyph>
+            <start y="2220.0" x="974.8542"/>
+            <next y="2220.0" x="958.375"/>
+            <end y="2117.6748" x="645.75"/>
+        </arc>
+        <arc target="glyph92.2" source="glyph47" id="arc52" class="consumption">
+            <start y="500.60507" x="3694.7856"/>
+            <next y="427.5" x="3274.5938"/>
+            <end y="427.5" x="3262.5938"/>
+        </arc>
+        <arc target="glyph9" source="glyph92.1" id="arc53" class="production">
+            <start y="427.5" x="3214.5938"/>
+            <next y="427.5" x="3202.5938"/>
+            <end y="543.4472" x="2660.6326"/>
+        </arc>
+        <arc target="glyph6" source="glyph92.1" id="arc54" class="production">
+            <start y="427.5" x="3214.5938"/>
+            <next y="427.5" x="3202.5938"/>
+            <end y="420.67957" x="2660.6326"/>
+        </arc>
+        <arc target="glyph83.2" source="glyph10" id="arc55" class="consumption">
+            <glyph id="glyph283" class="cardinality">
+                <label text="2"/>
+                <bbox y="1065.0" x="3556.0" h="17.5" w="22.5"/>
+            </glyph>
+            <start y="915.0" x="3721.689"/>
+            <next y="1410.0" x="3274.5938"/>
+            <end y="1410.0" x="3262.5938"/>
+        </arc>
+        <arc target="glyph101.2" source="glyph47" id="arc56" class="consumption">
+            <start y="486.65503" x="3694.7856"/>
+            <next y="305.0" x="3274.5938"/>
+            <end y="305.0" x="3262.5938"/>
+        </arc>
+        <arc target="glyph9" source="glyph101.1" id="arc57" class="production">
+            <start y="305.0" x="3214.5938"/>
+            <next y="305.0" x="3202.5938"/>
+            <end y="532.34753" x="2660.6326"/>
+        </arc>
+        <arc target="glyph6" source="glyph101.1" id="arc58" class="production">
+            <start y="305.0" x="3214.5938"/>
+            <next y="305.0" x="3202.5938"/>
+            <end y="409.57986" x="2660.6326"/>
+        </arc>
+        <arc target="glyph109.1" source="glyph37" id="arc59" class="consumption">
+            <start y="2392.936" x="1749.0"/>
+            <next y="2355.0" x="2039.0"/>
+            <end y="2355.0" x="2051.0"/>
+        </arc>
+        <arc target="glyph7" source="glyph109.2" id="arc60" class="production">
+            <start y="2355.0" x="2099.0"/>
+            <next y="2355.0" x="2111.0"/>
+            <end y="2461.9258" x="2552.6326"/>
+        </arc>
+        <arc target="glyph111.1" source="glyph18" id="arc61" class="consumption">
+            <start y="1919.1279" x="1749.0"/>
+            <next y="1995.0" x="2039.0"/>
+            <end y="1995.0" x="2051.0"/>
+        </arc>
+        <arc target="glyph46" source="glyph111.2" id="arc62" class="production">
+            <start y="1995.0" x="2099.0"/>
+            <next y="1995.0" x="2111.0"/>
+            <end y="2018.5425" x="2552.6326"/>
+        </arc>
+        <arc target="glyph106.1" source="glyph14" id="arc63" class="consumption">
+            <start y="2260.2908" x="1749.0"/>
+            <next y="2235.0" x="2039.0"/>
+            <end y="2235.0" x="2051.0"/>
+        </arc>
+        <arc target="glyph104.1" source="glyph31" id="arc64" class="consumption">
+            <start y="1829.1279" x="1749.0"/>
+            <next y="1905.0" x="2039.0"/>
+            <end y="1905.0" x="2051.0"/>
+        </arc>
+        <arc target="glyph16" source="glyph104.2" id="arc65" class="production">
+            <start y="1905.0" x="2099.0"/>
+            <next y="1905.0" x="2111.0"/>
+            <end y="1890.0" x="2570.2483"/>
+        </arc>
+        <arc target="glyph85.2" source="glyph47" id="arc66" class="consumption">
+            <start y="516.45306" x="3694.7856"/>
+            <next y="566.6667" x="3274.5938"/>
+            <end y="566.6667" x="3262.5938"/>
+        </arc>
+        <arc target="glyph9" source="glyph85.1" id="arc67" class="production">
+            <start y="566.6667" x="3214.5938"/>
+            <next y="566.6667" x="3202.5938"/>
+            <end y="556.0571" x="2660.6326"/>
+        </arc>
+        <arc target="glyph6" source="glyph85.1" id="arc68" class="production">
+            <start y="566.6667" x="3214.5938"/>
+            <next y="566.6667" x="3202.5938"/>
+            <end y="433.28946" x="2660.6326"/>
+        </arc>
+        <arc target="glyph98.2" source="glyph47" id="arc69" class="consumption">
+            <start y="529.6439" x="3694.7856"/>
+            <next y="682.5" x="3274.5938"/>
+            <end y="682.5" x="3262.5938"/>
+        </arc>
+        <arc target="glyph98.2" source="glyph10" id="arc70" class="consumption">
+            <glyph id="glyph298" class="cardinality">
+                <label text="2"/>
+                <bbox y="783.0" x="3541.0" h="17.5" w="22.5"/>
+            </glyph>
+            <start y="861.9397" x="3694.7856"/>
+            <next y="682.5" x="3274.5938"/>
+            <end y="682.5" x="3262.5938"/>
+        </arc>
+        <arc target="glyph9" source="glyph98.1" id="arc71" class="production">
+            <start y="682.5" x="3214.5938"/>
+            <next y="682.5" x="3202.5938"/>
+            <end y="566.5528" x="2660.6326"/>
+        </arc>
+        <arc target="glyph6" source="glyph98.1" id="arc72" class="production">
+            <start y="682.5" x="3214.5938"/>
+            <next y="682.5" x="3202.5938"/>
+            <end y="443.7851" x="2660.6326"/>
+        </arc>
+        <arc target="glyph113.1" source="glyph19" id="arc73" class="consumption">
+            <start y="2024.1279" x="1749.0"/>
+            <next y="2100.0" x="2039.0"/>
+            <end y="2100.0" x="2051.0"/>
+        </arc>
+        <arc target="glyph15" source="glyph113.2" id="arc74" class="production">
+            <start y="2100.0" x="2099.0"/>
+            <next y="2100.0" x="2111.0"/>
+            <end y="2190.0" x="2587.081"/>
+        </arc>
+        <arc target="glyph91.1" source="glyph48" id="arc75" class="consumption">
+            <start y="1724.1279" x="1749.0"/>
+            <next y="1800.0" x="2039.0"/>
+            <end y="1800.0" x="2051.0"/>
+        </arc>
+        <arc target="glyph100" source="glyph52" id="arc76" class="catalysis">
+            <start y="970.0" x="2065.5981"/>
+            <end y="909.44763" x="2063.23"/>
+        </arc>
+        <arc target="glyph82" source="glyph57" id="arc77" class="catalysis">
+            <start y="545.0" x="2065.691"/>
+            <end y="618.0" x="2063.1743"/>
+        </arc>
+        <arc target="glyph90" source="glyph61" id="arc78" class="catalysis">
+            <start y="1220.0" x="994.375"/>
+            <end y="1263.0" x="994.375"/>
+        </arc>
+        <arc target="glyph84" source="glyph77" id="arc79" class="catalysis">
+            <start y="1935.2118" x="1060.0"/>
+            <end y="1898.8729" x="1010.8542"/>
+        </arc>
+        <arc target="glyph103" source="glyph53" id="arc80" class="catalysis">
+            <start y="2325.3982" x="1090.0"/>
+            <end y="2346.761" x="1010.8542"/>
+        </arc>
+        <arc target="glyph110" source="glyph78" id="arc81" class="catalysis">
+            <start y="950.0" x="994.375"/>
+            <end y="1023.0" x="994.375"/>
+        </arc>
+        <arc target="glyph93" source="glyph75" id="arc82" class="catalysis">
+            <start y="1505.0" x="994.375"/>
+            <end y="1533.0" x="994.375"/>
+        </arc>
+        <arc target="glyph102" source="glyph74" id="arc83" class="catalysis">
+            <start y="1610.0" x="1035.1666"/>
+            <end y="1653.0" x="1003.275"/>
+        </arc>
+        <arc target="glyph87" source="glyph51" id="arc84" class="catalysis">
+            <start y="1730.0" x="955.69446"/>
+            <end y="1773.0" x="989.4375"/>
+        </arc>
+        <arc target="glyph89" source="glyph71" id="arc85" class="catalysis">
+            <start y="2243.2473" x="930.0"/>
+            <end y="2224.0515" x="986.8542"/>
+        </arc>
+        <arc target="glyph113" source="glyph67" id="arc86" class="catalysis">
+            <start y="2060.0" x="2075.0"/>
+            <end y="2088.0" x="2075.0"/>
+        </arc>
+        <arc target="glyph106" source="glyph62" id="arc87" class="catalysis">
+            <start y="2150.0" x="2075.0"/>
+            <end y="2223.0" x="2075.0"/>
+        </arc>
+        <arc target="glyph109" source="glyph64" id="arc88" class="catalysis">
+            <start y="2410.0" x="2075.0"/>
+            <end y="2367.0" x="2075.0"/>
+        </arc>
+        <arc target="glyph104" source="glyph73" id="arc89" class="catalysis">
+            <start y="1850.0" x="2075.0"/>
+            <end y="1893.0" x="2075.0"/>
+        </arc>
+        <arc target="glyph111" source="glyph68" id="arc90" class="catalysis">
+            <start y="1955.0" x="2075.0"/>
+            <end y="1983.0" x="2075.0"/>
+        </arc>
+        <arc target="glyph91" source="glyph55" id="arc91" class="catalysis">
+            <start y="1745.0" x="2075.0"/>
+            <end y="1788.0" x="2075.0"/>
+        </arc>
+        <arc target="glyph99" source="glyph65" id="arc92" class="catalysis">
+            <start y="1105.0" x="3238.5938"/>
+            <end y="1062.0" x="3238.5938"/>
+        </arc>
+        <arc target="glyph86" source="glyph66" id="arc93" class="catalysis">
+            <start y="1340.0" x="994.375"/>
+            <end y="1398.0" x="994.375"/>
+        </arc>
+        <arc target="glyph97" source="glyph79" id="arc94" class="catalysis">
+            <start y="1100.0" x="994.375"/>
+            <end y="1143.0" x="994.375"/>
+        </arc>
+        <arc target="glyph105" source="glyph56" id="arc95" class="catalysis">
+            <start y="2140.0" x="969.5417"/>
+            <end y="2122.0" x="987.1292"/>
+        </arc>
+        <arc target="glyph95" source="glyph59" id="arc96" class="catalysis">
+            <start y="2030.0" x="1012.3106"/>
+            <end y="2007.0" x="1003.46783"/>
+        </arc>
+        <arc target="glyph101" source="glyph76" id="arc97" class="catalysis">
+            <start y="355.0" x="3238.5938"/>
+            <end y="317.0" x="3238.5938"/>
+        </arc>
+        <arc target="glyph98" source="glyph80" id="arc98" class="catalysis">
+            <start y="618.0513" x="3310.0"/>
+            <end y="671.66925" x="3250.5938"/>
+        </arc>
+        <arc target="glyph92" source="glyph58" id="arc99" class="catalysis">
+            <start y="475.0" x="3238.5938"/>
+            <end y="439.5" x="3238.5938"/>
+        </arc>
+        <arc target="glyph107" source="glyph60" id="arc100" class="catalysis">
+            <start y="853.19476" x="3290.0"/>
+            <end y="820.0831" x="3250.5938"/>
+        </arc>
+        <arc target="glyph85" source="glyph54" id="arc101" class="catalysis">
+            <start y="595.0" x="3238.5938"/>
+            <end y="578.6667" x="3238.5938"/>
+        </arc>
+        <arc target="glyph88" source="glyph50" id="arc102" class="catalysis">
+            <start y="1195.0" x="3238.5938"/>
+            <end y="1197.0" x="3238.5938"/>
+        </arc>
+        <arc target="glyph96" source="glyph69" id="arc103" class="catalysis">
+            <start y="1671.1248" x="3320.0"/>
+            <end y="1640.3251" x="3250.5938"/>
+        </arc>
+        <arc target="glyph108" source="glyph81" id="arc104" class="catalysis">
+            <start y="920.0" x="3202.9583"/>
+            <end y="963.0" x="3230.8188"/>
+        </arc>
+        <arc target="glyph94" source="glyph70" id="arc105" class="catalysis">
+            <start y="1345.0" x="3238.5938"/>
+            <end y="1317.0" x="3238.5938"/>
+        </arc>
+        <arc target="glyph112" source="glyph72" id="arc106" class="catalysis">
+            <start y="1585.0" x="3238.5938"/>
+            <end y="1542.0" x="3238.5938"/>
+        </arc>
+        <arc target="glyph83" source="glyph63" id="arc107" class="catalysis">
+            <start y="1440.0" x="3239.4375"/>
+            <end y="1422.0" x="3238.9312"/>
+        </arc>
+        <arc target="glyph85.2" source="glyph39" id="arc108" class="consumption">
+            <start y="396.8266" x="3694.7856"/>
+            <next y="566.6667" x="3274.5938"/>
+            <end y="566.6667" x="3262.5938"/>
+        </arc>
+        <arc target="glyph92.2" source="glyph39" id="arc109" class="consumption">
+            <start y="380.9786" x="3694.7856"/>
+            <next y="427.5" x="3274.5938"/>
+            <end y="427.5" x="3262.5938"/>
+        </arc>
+        <arc target="glyph101.2" source="glyph39" id="arc110" class="consumption">
+            <start y="367.02853" x="3694.7856"/>
+            <next y="305.0" x="3274.5938"/>
+            <end y="305.0" x="3262.5938"/>
+        </arc>
+        <arc target="glyph26" source="glyph92.1" id="arc111" class="production">
+            <start y="427.5" x="3214.5938"/>
+            <next y="427.5" x="3202.5938"/>
+            <end y="284.27106" x="2660.6326"/>
+        </arc>
+        <arc target="glyph26" source="glyph85.1" id="arc112" class="production">
+            <start y="566.6667" x="3214.5938"/>
+            <next y="566.6667" x="3202.5938"/>
+            <end y="296.88095" x="2660.6326"/>
+        </arc>
+        <arc target="glyph26" source="glyph101.1" id="arc113" class="production">
+            <start y="305.0" x="3214.5938"/>
+            <next y="305.0" x="3202.5938"/>
+            <end y="273.17136" x="2660.6326"/>
+        </arc>
+        <arc target="glyph107.2" source="glyph36" id="arc114" class="consumption">
+            <glyph id="glyph342" class="cardinality">
+                <label text="3"/>
+                <bbox y="717.0" x="3537.0" h="17.5" w="22.5"/>
+            </glyph>
+            <start y="697.0194" x="3694.7856"/>
+            <next y="810.0" x="3274.5938"/>
+            <end y="810.0" x="3262.5938"/>
+        </arc>
+        <arc target="glyph98.2" source="glyph36" id="arc115" class="consumption">
+            <glyph id="glyph343" class="cardinality">
+                <label text="3"/>
+                <bbox y="663.0" x="3533.0" h="17.5" w="22.5"/>
+            </glyph>
+            <start y="682.5" x="3694.7856"/>
+            <next y="682.5" x="3274.5938"/>
+            <end y="682.5" x="3262.5938"/>
+        </arc>
+        <arc target="glyph42" source="glyph107.1" id="arc116" class="production">
+            <glyph id="glyph344" class="cardinality">
+                <label text="4"/>
+                <bbox y="923.0" x="2840.0" h="17.5" w="22.5"/>
+            </glyph>
+            <start y="810.0" x="3214.5938"/>
+            <next y="810.0" x="3202.5938"/>
+            <end y="1014.6128" x="2660.6326"/>
+        </arc>
+        <arc target="glyph42" source="glyph98.1" id="arc117" class="production">
+            <glyph id="glyph345" class="cardinality">
+                <label text="4"/>
+                <bbox y="874.0" x="2833.0" h="17.5" w="22.5"/>
+            </glyph>
+            <start y="682.5" x="3214.5938"/>
+            <next y="682.5" x="3202.5938"/>
+            <end y="1005.0" x="2657.3528"/>
+        </arc>
+        <arc target="glyph99.1" source="glyph42" id="arc118" class="consumption">
+            <glyph id="glyph346" class="cardinality">
+                <label text="2"/>
+                <bbox y="1022.0" x="2836.0" h="17.5" w="22.5"/>
+            </glyph>
+            <start y="1036.3591" x="2660.6326"/>
+            <next y="1050.0" x="3202.5938"/>
+            <end y="1050.0" x="3214.5938"/>
+        </arc>
+        <arc target="glyph27" source="glyph91.2" id="arc119" class="production">
+            <start y="1800.0" x="2099.0"/>
+            <next y="1800.0" x="2111.0"/>
+            <end y="1800.0" x="2552.6326"/>
+        </arc>
+        <arc target="glyph11" source="glyph106.2" id="arc120" class="production">
+            <start y="2235.0" x="2099.0"/>
+            <next y="2235.0" x="2111.0"/>
+            <end y="2328.56" x="2552.6326"/>
+        </arc>
+        <arc target="glyph21" source="glyph97.1" id="arc121" class="production">
+            <start y="1155.0" x="970.375"/>
+            <next y="1155.0" x="958.375"/>
+            <end y="1530.0" x="618.9074"/>
+        </arc>
+        <arc target="glyph21" source="glyph86.1" id="arc122" class="production">
+            <start y="1410.0" x="970.375"/>
+            <next y="1410.0" x="958.375"/>
+            <end y="1537.9066" x="645.75"/>
+        </arc>
+        <arc target="glyph21" source="glyph102.1" id="arc123" class="production">
+            <start y="1665.0" x="970.375"/>
+            <next y="1665.0" x="958.375"/>
+            <end y="1575.4655" x="645.75"/>
+        </arc>
+        <arc target="glyph21" source="glyph93.1" id="arc124" class="production">
+            <start y="1545.0" x="970.375"/>
+            <next y="1545.0" x="958.375"/>
+            <end y="1557.7906" x="645.75"/>
+        </arc>
+        <arc target="glyph97.2" source="glyph23" id="arc125" class="consumption">
+            <start y="1500.0" x="1454.1062"/>
+            <next y="1155.0" x="1030.375"/>
+            <end y="1155.0" x="1018.375"/>
+        </arc>
+        <arc target="glyph102.2" source="glyph23" id="arc126" class="consumption">
+            <start y="1545.828" x="1436.9524"/>
+            <next y="1665.0" x="1030.375"/>
+            <end y="1665.0" x="1018.375"/>
+        </arc>
+        <arc target="glyph86.2" source="glyph23" id="arc127" class="consumption">
+            <start y="1515.9307" x="1436.9524"/>
+            <next y="1410.0" x="1030.375"/>
+            <end y="1410.0" x="1018.375"/>
+        </arc>
+        <arc target="glyph93.2" source="glyph23" id="arc128" class="consumption">
+            <start y="1531.7587" x="1436.9524"/>
+            <next y="1545.0" x="1030.375"/>
+            <end y="1545.0" x="1018.375"/>
+        </arc>
+        <arc target="glyph88.2" source="glyph10" id="arc129" class="consumption">
+            <start y="915.0" x="3701.3665"/>
+            <next y="1185.0" x="3274.5938"/>
+            <end y="1185.0" x="3262.5938"/>
+        </arc>
+        <arc target="glyph108.2" source="glyph1" id="arc130" class="consumption">
+            <start y="1187.6693" x="3694.7856"/>
+            <next y="975.0" x="3274.5938"/>
+            <end y="975.0" x="3262.5938"/>
+        </arc>
+        <arc target="glyph94.2" source="glyph1" id="arc131" class="consumption">
+            <start y="1225.249" x="3694.7856"/>
+            <next y="1305.0" x="3274.5938"/>
+            <end y="1305.0" x="3262.5938"/>
+        </arc>
+        <arc target="glyph112.2" source="glyph1" id="arc132" class="consumption">
+            <start y="1245.0" x="3703.6245"/>
+            <next y="1530.0" x="3274.5938"/>
+            <end y="1530.0" x="3262.5938"/>
+        </arc>
+        <arc target="glyph88.2" source="glyph1" id="arc133" class="consumption">
+            <start y="1211.5836" x="3694.7856"/>
+            <next y="1185.0" x="3274.5938"/>
+            <end y="1185.0" x="3262.5938"/>
+        </arc>
+        <arc target="glyph83.2" source="glyph1" id="arc134" class="consumption">
+            <glyph id="glyph362" class="cardinality">
+                <label text="2"/>
+                <bbox y="1276.0" x="3541.0" h="17.5" w="22.5"/>
+            </glyph>
+            <start y="1237.2062" x="3694.7856"/>
+            <next y="1410.0" x="3274.5938"/>
+            <end y="1410.0" x="3262.5938"/>
+        </arc>
+        <arc target="glyph96.2" source="glyph1" id="arc135" class="consumption">
+            <glyph id="glyph363" class="cardinality">
+                <label text="2"/>
+                <bbox y="1358.0" x="3552.0" h="17.5" w="22.5"/>
+            </glyph>
+            <start y="1245.0" x="3714.9148"/>
+            <next y="1635.0" x="3274.5938"/>
+            <end y="1635.0" x="3262.5938"/>
+        </arc>
+        <arc target="glyph5" source="glyph94.1" id="arc136" class="production">
+            <start y="1305.0" x="3214.5938"/>
+            <next y="1305.0" x="3202.5938"/>
+            <end y="1359.5634" x="2660.6326"/>
+        </arc>
+        <arc target="glyph5" source="glyph112.1" id="arc137" class="production">
+            <start y="1530.0" x="3214.5938"/>
+            <next y="1530.0" x="3202.5938"/>
+            <end y="1379.9507" x="2660.6326"/>
+        </arc>
+        <arc target="glyph5" source="glyph108.1" id="arc138" class="production">
+            <start y="975.0" x="3214.5938"/>
+            <next y="975.0" x="3202.5938"/>
+            <end y="1335.0" x="2652.4758"/>
+        </arc>
+        <arc target="glyph5" source="glyph88.1" id="arc139" class="production">
+            <start y="1185.0" x="3214.5938"/>
+            <next y="1185.0" x="3202.5938"/>
+            <end y="1348.6902" x="2660.6326"/>
+        </arc>
+        <arc target="glyph5" source="glyph96.1" id="arc140" class="production">
+            <glyph id="glyph368" class="cardinality">
+                <label text="2"/>
+                <bbox y="1457.0" x="2837.0" h="17.5" w="22.5"/>
+            </glyph>
+            <start y="1635.0" x="3214.5938"/>
+            <next y="1635.0" x="3202.5938"/>
+            <end y="1389.4647" x="2660.6326"/>
+        </arc>
+        <arc target="glyph5" source="glyph83.1" id="arc141" class="production">
+            <start y="1410.0" x="3214.5938"/>
+            <next y="1410.0" x="3202.5938"/>
+            <end y="1369.0774" x="2660.6326"/>
+        </arc>
+        <arc target="glyph32" source="glyph99.2" id="arc142" class="production">
+            <start y="1050.0" x="3262.5938"/>
+            <next y="1050.0" x="3274.5938"/>
+            <end y="1063.2919" x="3694.7856"/>
+        </arc>
+        <arc target="glyph43" source="glyph82.2" id="arc143" class="production">
+            <start y="630.0" x="2086.7607"/>
+            <next y="630.0" x="2098.7607"/>
+            <end y="737.24084" x="2552.6326"/>
+        </arc>
+        <arc target="glyph43" source="glyph100.2" id="arc144" class="production">
+            <start y="897.44763" x="2086.7607"/>
+            <next y="897.44763" x="2098.7607"/>
+            <end y="765.67755" x="2552.6326"/>
+        </arc>
+        <arc target="glyph43" source="glyph98.1" id="arc145" class="production">
+            <glyph id="glyph373" class="cardinality">
+                <label text="3"/>
+                <bbox y="702.0" x="2846.0" h="17.5" w="22.5"/>
+            </glyph>
+            <start y="682.5" x="3214.5938"/>
+            <next y="682.5" x="3202.5938"/>
+            <end y="743.88385" x="2660.6326"/>
+        </arc>
+        <arc target="glyph43" source="glyph107.1" id="arc146" class="production">
+            <glyph id="glyph374" class="cardinality">
+                <label text="3"/>
+                <bbox y="756.0" x="2846.0" h="17.5" w="22.5"/>
+            </glyph>
+            <start y="810.0" x="3214.5938"/>
+            <next y="810.0" x="3202.5938"/>
+            <end y="755.4366" x="2660.6326"/>
+        </arc>
+        <arc target="glyph38" source="glyph87.1" id="arc147" class="production">
+            <start y="1785.0" x="974.8542"/>
+            <next y="1785.0" x="958.375"/>
+            <end y="1925.6973" x="645.75"/>
+        </arc>
+        <arc target="glyph38" source="glyph105.1" id="arc148" class="production">
+            <start y="2110.0" x="974.8542"/>
+            <end y="1971.223" x="645.75"/>
+        </arc>
+        <arc target="glyph38" source="glyph89.1" id="arc149" class="production">
+            <start y="2220.0" x="974.8542"/>
+            <next y="2220.0" x="958.375"/>
+            <end y="1980.0" x="632.4861"/>
+        </arc>
+        <arc target="glyph38" source="glyph95.1" id="arc150" class="production">
+            <start y="1995.0" x="974.8542"/>
+            <next y="1995.0" x="954.0"/>
+            <end y="1956.7081" x="645.75"/>
+        </arc>
+        <arc target="glyph113.1" source="glyph20" id="arc151" class="consumption">
+            <start y="2137.936" x="1749.0"/>
+            <next y="2100.0" x="2039.0"/>
+            <end y="2100.0" x="2051.0"/>
+        </arc>
+        <arc target="glyph109.1" source="glyph20" id="arc152" class="consumption">
+            <start y="2175.0" x="1744.1428"/>
+            <next y="2355.0" x="2039.0"/>
+            <end y="2355.0" x="2051.0"/>
+        </arc>
+        <arc target="glyph104.1" source="glyph20" id="arc153" class="consumption">
+            <start y="2115.0" x="1738.0"/>
+            <next y="1905.0" x="2039.0"/>
+            <end y="1905.0" x="2051.0"/>
+        </arc>
+        <arc target="glyph111.1" source="glyph20" id="arc154" class="consumption">
+            <start y="2121.4534" x="1749.0"/>
+            <next y="1995.0" x="2039.0"/>
+            <end y="1995.0" x="2051.0"/>
+        </arc>
+        <arc target="glyph91.1" source="glyph20" id="arc155" class="consumption">
+            <start y="2115.0" x="1724.9131"/>
+            <next y="1800.0" x="2039.0"/>
+            <end y="1800.0" x="2051.0"/>
+        </arc>
+        <arc target="glyph106.1" source="glyph20" id="arc156" class="consumption">
+            <start y="2159.128" x="1749.0"/>
+            <next y="2235.0" x="2039.0"/>
+            <end y="2235.0" x="2051.0"/>
+        </arc>
+        <arc target="glyph87.2" source="glyph20" id="arc157" class="consumption">
+            <start y="2115.7505" x="1641.0"/>
+            <next y="1785.0" x="1030.375"/>
+            <end y="1785.0" x="1022.8542"/>
+        </arc>
+        <arc target="glyph105.2" source="glyph20" id="arc158" class="consumption">
+            <start y="2142.188" x="1641.0"/>
+            <end y="2110.0" x="1022.8542"/>
+        </arc>
+        <arc target="glyph89.2" source="glyph20" id="arc159" class="consumption">
+            <start y="2151.0938" x="1641.0"/>
+            <next y="2220.0" x="1030.375"/>
+            <end y="2220.0" x="1022.8542"/>
+        </arc>
+        <arc target="glyph95.2" source="glyph20" id="arc160" class="consumption">
+            <start y="2132.8923" x="1641.0"/>
+            <next y="1995.0" x="1026.0"/>
+            <end y="1995.0" x="1022.8542"/>
+        </arc>
+        <arc target="glyph2" source="glyph109.2" id="arc161" class="production">
+            <start y="2355.0" x="2099.0"/>
+            <next y="2355.0" x="2111.0"/>
+            <end y="1650.0" x="2586.4026"/>
+        </arc>
+        <arc target="glyph2" source="glyph106.2" id="arc162" class="production">
+            <start y="2235.0" x="2099.0"/>
+            <next y="2235.0" x="2111.0"/>
+            <end y="1650.0" x="2582.4553"/>
+        </arc>
+        <arc target="glyph2" source="glyph111.2" id="arc163" class="production">
+            <start y="1995.0" x="2099.0"/>
+            <next y="1995.0" x="2111.0"/>
+            <end y="1650.0" x="2566.982"/>
+        </arc>
+        <arc target="glyph2" source="glyph91.2" id="arc164" class="production">
+            <start y="1800.0" x="2099.0"/>
+            <next y="1800.0" x="2111.0"/>
+            <end y="1639.6113" x="2552.6326"/>
+        </arc>
+        <arc target="glyph2" source="glyph104.2" id="arc165" class="production">
+            <start y="1905.0" x="2099.0"/>
+            <next y="1905.0" x="2111.0"/>
+            <end y="1650.0" x="2554.4607"/>
+        </arc>
+        <arc target="glyph2" source="glyph112.1" id="arc166" class="production">
+            <glyph id="glyph394" class="cardinality">
+                <label text="2"/>
+                <bbox y="1563.0" x="2845.0" h="17.5" w="22.5"/>
+            </glyph>
+            <start y="1530.0" x="3214.5938"/>
+            <next y="1530.0" x="3202.5938"/>
+            <end y="1611.8451" x="2660.6326"/>
+        </arc>
+        <arc target="glyph2" source="glyph94.1" id="arc167" class="production">
+            <glyph id="glyph395" class="cardinality">
+                <label text="2"/>
+                <bbox y="1474.0" x="2835.0" h="17.5" w="22.5"/>
+            </glyph>
+            <start y="1305.0" x="3214.5938"/>
+            <next y="1305.0" x="3202.5938"/>
+            <end y="1591.4579" x="2660.6326"/>
+        </arc>
+        <arc target="glyph2" source="glyph108.1" id="arc168" class="production">
+            <glyph id="glyph396" class="cardinality">
+                <label text="2"/>
+                <bbox y="1354.0" x="2821.0" h="17.5" w="22.5"/>
+            </glyph>
+            <start y="975.0" x="3214.5938"/>
+            <next y="975.0" x="3202.5938"/>
+            <end y="1590.0" x="2634.3518"/>
+        </arc>
+        <arc target="glyph2" source="glyph83.1" id="arc169" class="production">
+            <glyph id="glyph397" class="cardinality">
+                <label text="4"/>
+                <bbox y="1514.0" x="2841.0" h="17.5" w="22.5"/>
+            </glyph>
+            <start y="1410.0" x="3214.5938"/>
+            <next y="1410.0" x="3202.5938"/>
+            <end y="1600.9719" x="2660.6326"/>
+        </arc>
+        <arc target="glyph2" source="glyph96.1" id="arc170" class="production">
+            <glyph id="glyph398" class="cardinality">
+                <label text="4"/>
+                <bbox y="1607.0" x="2847.0" h="17.5" w="22.5"/>
+            </glyph>
+            <start y="1635.0" x="3214.5938"/>
+            <next y="1635.0" x="3202.5938"/>
+            <end y="1621.3591" x="2660.6326"/>
+        </arc>
+        <arc target="glyph2" source="glyph88.1" id="arc171" class="production">
+            <glyph id="glyph399" class="cardinality">
+                <label text="2"/>
+                <bbox y="1429.0" x="2829.0" h="17.5" w="22.5"/>
+            </glyph>
+            <start y="1185.0" x="3214.5938"/>
+            <next y="1185.0" x="3202.5938"/>
+            <end y="1590.0" x="2647.7334"/>
+        </arc>
+    </map>
+</sbgn>
