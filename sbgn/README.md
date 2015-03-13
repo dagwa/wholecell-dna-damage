@@ -1,15 +1,15 @@
-DNA_damage_final.sbgn
+DNA_damage_full.sbgn
 =====================
 
-SBGN map generated using VANTED with tool SBGN-ED. 
+SBGN map generated using VANTED with tool SBGN-ED. Contains all ~140 reactions contained in the knowledgebase, even those omitted from the simulation (due to rates unknown / assumed to be 0).
 
 Namrata Tomar
 Mahesh Sharma
 
-DNA_damage_latest.graphml
+DNA_damage_simulated.graphml
 =====================
 
-GraphML layout of the SBGN map generated using VANTED with tool SBGN-ED. (There were problems saving as SBGN-ML.)
+GraphML layout of the SBGN map generated using VANTED with tool SBGN-ED. (There were problems saving as SBGN-ML.) Limited to the 32 reactions actually simulated.
 
 Namrata Tomar
 Mahesh Sharma
